@@ -2,36 +2,24 @@
 title: Welcome to my home page :)
 ---
 
-# Bienvenidos al Gaming Hub 🎮🎲
-
-Explora la intersección entre los mundos digitales y la estrategia de mesa. Este sitio está dedicado a reseñar, analizar y compartir lo mejor de ambos universos lúdicos.
+# El rincon de Martín
 
 ---
 
-## 🕹️ Videojuegos
-Desde RPGs inmersivos hasta shooters competitivos de ritmo frenético, el gaming digital trata de expandir los límites de la tecnología y la narrativa.
+## 👤 Descripción personal
 
-### Favoritos Actuales
-- **Exploración de Mundo Abierto:** Descubriendo secretos ocultos en paisajes vastos y detallados.
-- **Indie Spotlights:** Destacando joyas creativas de estudios de desarrollo independientes.
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="250">
 
----
-
-## 🃏 Juegos de Mesa y Tablero
-Nada supera la experiencia táctil de mover una pieza física por un tablero o la interacción social de una noche de juegos con amigos.
-
-### ¿Qué hay sobre la mesa?
-- **Estrategia y Eurogames:** Mecánicas profundas, gestión de recursos y planificación a largo plazo.
-- **Constructores de Mazos (Deck Builders):** Creando el motor perfecto para superar a tus oponentes.
-- **Deducción Social:** Poniendo a prueba tu intuición y tu "poker face" en juegos de identidades ocultas.
+**Presentación**: 
+Mi nombre es Martín, soy estudiante de 6to año de ingeniería civil biomédica.
+Me dedico principalmente a hacer clases sobre distintos ramos de matematica y ciencias basicas, además de mantenerme estudiando constantemente 
 
 ---
 
-## 🗓️ Logística de Noche de Juegos
-Ya sea una raid por Discord o una reunión física alrededor de una mesa de caoba, estos son mis esenciales para una sesión perfecta:
+## 🔍 Intereses de Investigación
 
-1. **Preparación:** Leer el manual (o las notas del parche) de antemano.
-1. **Atmósfera:** Listas de reproducción seleccionadas para una mayor inmersión.
-1. **Comunidad:** Juego limpio, espíritu deportivo y buenos snacks.
+- **[Biomecanica]:** 
+- **[Robotica]:** 
+- **[Protesis medicas]:**
 
 ---
